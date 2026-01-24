@@ -1,0 +1,46 @@
+# Documentation (exclude all .md except README.md)
+*.md
+!README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+ml_models/*.pkl
+logs/*.log
+.env.local
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Frontend
+frontend/dashboard/node_modules/
+frontend/dashboard/build/
+
+# Docker
+docker-compose.override.yml
+
+# Data
+*.csv
+*.log
+!sample_logs/*.csv
+!sample_logs/*.log

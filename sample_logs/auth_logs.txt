@@ -1,0 +1,17 @@
+Jan 10 10:21:44 server1 sshd[12345]: Failed password for root from 192.168.1.10 port 45678 ssh2
+Jan 10 10:21:50 server1 sshd[12346]: Failed password for root from 192.168.1.10 port 45679 ssh2
+Jan 10 10:21:56 server1 sshd[12347]: Failed password for root from 192.168.1.10 port 45680 ssh2
+Jan 10 10:22:02 server1 sshd[12348]: Failed password for root from 192.168.1.10 port 45681 ssh2
+Jan 10 10:22:08 server1 sshd[12349]: Failed password for root from 192.168.1.10 port 45682 ssh2
+Jan 10 10:22:14 server1 sshd[12350]: Failed password for root from 192.168.1.10 port 45683 ssh2
+Jan 10 10:22:20 server1 sshd[12351]: Failed password for root from 192.168.1.10 port 45684 ssh2
+Jan 10 10:22:26 server1 sshd[12352]: Failed password for root from 192.168.1.10 port 45685 ssh2
+Jan 10 10:22:32 server1 sshd[12353]: Failed password for root from 192.168.1.10 port 45686 ssh2
+Jan 10 10:22:38 server1 sshd[12354]: Failed password for root from 192.168.1.10 port 45687 ssh2
+Jan 10 10:22:44 server1 sshd[12355]: Accepted password for root from 192.168.1.10 port 45688 ssh2
+Jan 10 10:22:50 server1 sudo[12356]: root : TTY=pts/0 ; PWD=/root ; USER=admin ; COMMAND=/bin/bash
+Jan 10 14:15:22 server1 sshd[13001]: Accepted password for alice from 192.168.1.20 port 50001 ssh2
+Jan 10 14:30:10 server1 sshd[13045]: Failed password for bob from 192.168.1.30 port 50100 ssh2
+Jan 10 03:00:00 server1 sshd[14000]: Accepted password for admin from 192.168.1.40 port 60000 ssh2
+Jan 10 09:15:00 server1 sshd[14100]: Accepted password for alice from 192.168.1.20 port 60100 ssh2
+Jan 10 16:30:00 server1 sshd[14200]: Failed password for charlie from 10.0.0.50 port 60200 ssh2
