@@ -1,5 +1,5 @@
 # Documentation (exclude all .md except README.md)
-*.md
+
 !README.md
 
 # Python
